@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Arsenal
+MINI_NAME:Arsenal
+NAC:ENG
+LEVEL:84
+COACH:Wegner
+TEXT_COLOR:255;255;255
+BACK_COLOR:255;0;0
+PLAYER:Almunia;0;ESP
+PLAYER:Szczesny;0;POL
+PLAYER:Mertesacker;1;DEU
+PLAYER:Vermaelen;1;BEL
+PLAYER:Koscielny;1;FRA
+PLAYER:Sagna;1;FRA
+PLAYER:André Santos;1; BRA
+PLAYER:Abou Diabi;2;FRA
+PLAYER:Jack Wilshere;2;ENG
+PLAYER:Aaron Ramsey;2;ENG
+PLAYER:Benayoun;2;ISR
+PLAYER:Gervinho;3;CIV
+PLAYER:Robin Van Persie*;3;NLD
+PLAYER:Thierry Henry;3;FRA
+PLAYER:Theo Walcott;3;ENG
+PLAYER:Arshavin;3;RUS

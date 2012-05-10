@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Manchester Utd
+MINI_NAME:Man Utd
+NAC:ENG
+LEVEL:90
+COACH:Alex Ferguson
+TEXT_COLOR:255;255;255
+BACK_COLOR:255;0;0
+PLAYER:De Gea;0;ESP
+PLAYER:Lindegaard;0;DNK 
+PLAYER:Rio Ferdinand;1;ENG
+PLAYER:Phil Jones;1;ENG
+PLAYER:Vidic ;1;YUG
+PLAYER:Evra ;1;FRA
+PLAYER:Rafael;1;BRA
+PLAYER:Chris Smalling;1;ENG
+PLAYER:Nani *;2;PRT
+PLAYER:Paul Scholes;2;ENG
+PLAYER:Ashley Young;2;ENG
+PLAYER:Ryan Giggs *;2;ENG
+PLAYER:Michael Carrick;2;ENG
+PLAYER:Wayne Rooney *;3;ENG
+PLAYER:Berbatov ;3;BGR
+PLAYER:Chicharito;3;MEX

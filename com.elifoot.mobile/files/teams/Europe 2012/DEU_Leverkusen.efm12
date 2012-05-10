@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:B Leverkusen
+MINI_NAME:Leverkusen
+NAC:DEU
+LEVEL:80
+COACH:Robin Dutt
+TEXT_COLOR:255;255;255
+BACK_COLOR:56;118;29
+PLAYER:Rene Adler;0;DEU
+PLAYER:David Yelldell;0;USA
+PLAYER:Stefan Reinartz;1;DEU
+PLAYER:Manuel Friedrich;1;DEU
+PLAYER:Verdan Corluka *;1;HRV
+PLAYER:Michal Kadlec;1;CZE
+PLAYER:Gonzalo Castro;1;DEU
+PLAYER:Daniel Schwaab;1;DEU
+PLAYER:Simon Rolfes;2;DEU
+PLAYER:Lars Bender;2;DEU
+PLAYER:Renato Augusto;2;BRA
+PLAYER:Michael Ballack;2;DEU
+PLAYER:T Barnetta *;2;CHE
+PLAYER:Andre Schurrle;3;DEU
+PLAYER:Steffan Kießling;3;DEU
+PLAYER:Eren Derdiyok;3;CHE

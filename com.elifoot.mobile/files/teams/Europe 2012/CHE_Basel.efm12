@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Basel
+MINI_NAME:Basel
+NAC:CHE
+LEVEL:78
+COACH:Thor Fink
+TEXT_COLOR:255;255;153
+BACK_COLOR:255;0;0
+PLAYER:Y Sommer;0;CHE
+PLAYER:Marcel Herzog;0;CHE
+PLAYER:Massimo Colomba;0;CHE
+PLAYER:Radoslav Kovac;1;CZE
+PLAYER:Dragovic;1;AUT
+PLAYER:Philipp Degen;1;CHE
+PLAYER:Steinhofer;1;DEU
+PLAYER:Kay Voser;1;CHE
+PLAYER:Shaqiri *;2;CHE
+PLAYER:Fabien Frei *;2;CHE
+PLAYER:Adilson Cabral;2;CHE
+PLAYER:Chipperfield;2;AUS
+PLAYER:Huggel;2;CHE
+PLAYER:Marco Streller;3;CHE
+PLAYER:Slexander Frei *;3;CHE
+PLAYER:Jaques Zoua;3;CMR

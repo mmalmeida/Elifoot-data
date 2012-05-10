@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Celtic
+MINI_NAME:Celtic
+NAC:SCO
+LEVEL:60
+COACH:Neil Lennon
+TEXT_COLOR:56;118;29
+BACK_COLOR:255;255;255
+PLAYER:Forster;0;ENG
+PLAYER:Zaluska;0;POL
+PLAYER:Kelvin Wilson;1;ENG
+PLAYER:Cha Du-Ri;1;KOR
+PLAYER:Glenn Loovens;1;NLD
+PLAYER:Majstorovic;1;SWE
+PLAYER:Efrain Juarez;1;NLD
+PLAYER:Scott Brown;2;SCO
+PLAYER:Shaun Maloney;2;SCO
+PLAYER:Joe Ledley;2;ENG
+PLAYER:Ki Sung-Yueng;2;KOR
+PLAYER:Rabiu Ibrahim;2;IRL
+PLAYER:Georgios Samaras;3;GRC
+PLAYER:Anthony Stokes;3;IRL
+PLAYER:Mohamed Bangura;3;GHA
+PLAYER:Pawel Brozek;3;POL

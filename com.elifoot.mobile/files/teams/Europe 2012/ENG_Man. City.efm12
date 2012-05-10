@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Manchester City
+MINI_NAME:Man City
+NAC:ENG
+LEVEL:91
+COACH:Mancini
+TEXT_COLOR:255;255;255
+BACK_COLOR:51;102;255
+PLAYER:Joe Heart;0;ENG
+PLAYER:Stuart Taylor;0;ENG
+PLAYER:Kompany;1;BEL
+PLAYER:Kolo Toure;1;ENG
+PLAYER:Zabaleta;1;ARG
+PLAYER:Michah Richards;1;ENG
+PLAYER:Clichy;1;FRA
+PLAYER:Gareth Barry;2;ENG
+PLAYER:Yaya Toure*;2;CIV
+PLAYER:James Milner;2;ENG
+PLAYER:Samir Nasri;2;FRA
+PLAYER:David Silva;2;ESP
+PLAYER:Edin Dzeko;3;BIH
+PLAYER:Kun Aguero;3;ARG
+PLAYER:Carlos Tevez*;3;ARG
+PLAYER:Mario Balotelli;3;ITA

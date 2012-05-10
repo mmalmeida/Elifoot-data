@@ -1,0 +1,26 @@
+ELIFOOT-TEAM
+NAME:Bayern München
+MINI_NAME:Bayern
+NAC:DEU
+LEVEL:88
+COACH:Heynckes
+TEXT_COLOR:255;255;255
+BACK_COLOR:255;0;0
+PLAYER:Neuer;0;DEU
+PLAYER:Butt;0;DEU
+PLAYER:Badstuber;1;DEU
+PLAYER:Van Buyten;1;DEU
+PLAYER:Rafinha;1;BRA
+PLAYER:Jerome Boateng;1;DEU
+PLAYER:Lahm;1;DEU
+PLAYER:Diego Contento;1;DEU
+PLAYER:Franck Ribery;2;FRA
+PLAYER:Robben*;2;NLD
+PLAYER:Pranjic;2;HRV
+PLAYER:Schweinsteiger*;2;DEU
+PLAYER:Luiz Gustavo;2;BRA
+PLAYER:Toni Kroos;2;DEU
+PLAYER:Thomas Muller;3;DEU
+PLAYER:Mario Gomez;3;DEU
+PLAYER:Ivica Olic;3;HRV
+

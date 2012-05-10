@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Atletico Madrid
+MINI_NAME:Atl Madrid
+NAC:ESP
+LEVEL:60
+COACH:Diego Simeone
+TEXT_COLOR:255;255;255
+BACK_COLOR:255;0;0
+PLAYER:Courtois;0;BEL
+PLAYER:Sergio Asenjo;0;ESP
+PLAYER:Diego Godin;1;URY
+PLAYER:Luis Perea;1;COL
+PLAYER:Joao Miranda;1;BRA
+PLAYER:Antonio Lopez ;1;ESP
+PLAYER:Filipe;1;BRA
+PLAYER:Gabi;2;ESP
+PLAYER:Paulo Asunção ;2;BRA
+PLAYER:Diego;2;BRA
+PLAYER:Arda Turan;2;TUR
+PLAYER:Salvio;2;ARG
+PLAYER:Falcao;3;COL
+PLAYER:Diego Costa;3;BRA
+PLAYER:Adrian Lopez;3;ESP
+PLAYER:Juanfran;3;ESP

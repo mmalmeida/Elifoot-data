@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Olympiakos
+MINI_NAME:Olympiakos
+NAC:GRC
+LEVEL:77
+COACH:Ernesto Valverde
+TEXT_COLOR:255;255;255
+BACK_COLOR:255;0;0
+PLAYER:Papadoupoulos;0;GRC
+PLAYER:Roy Caroll;0;ENG
+PLAYER:A Papadopoulos;1;GRC
+PLAYER:Olof Mellberg;1;SWE
+PLAYER:François Modestó;1;FRA
+PLAYER:Papazoglou;1;GRC
+PLAYER:Giannis Maniatis;1;GRC
+PLAYER:Ariel Ibagaza;2;ARG
+PLAYER:Ljubomir Fejsa;2;SRB
+PLAYER:Fetfatzidis;2;GRC
+PLAYER:Jean Makoun *;2;CMR
+PLAYER:Pablo Orbaiz;2;ESP
+PLAYER:Rafik Djebbour;3;DZA
+PLAYER:Marko Pantelic;3;SRB
+PLAYER:Kazim Kazim;3;TUR
+PLAYER:Kevin Mirallas;3;BEL

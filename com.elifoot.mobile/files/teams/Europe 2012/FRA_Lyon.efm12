@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Lyon
+MINI_NAME:Lyon
+NAC:FRA
+LEVEL:80
+COACH:Remi Garde
+TEXT_COLOR:0;0;255
+BACK_COLOR:255;255;255
+PLAYER:Hugo Lloris *;0;FRA
+PLAYER:Remy Vercoutre;0;FRA
+PLAYER:Cris;1;BRA
+PLAYER:Bakary Koné;1;BFA
+PLAYER:Dejan Lovren;1;HRV
+PLAYER:Aly Cissokho;1;FRA
+PLAYER:John Mensah;1;GHA
+PLAYER:T Kolodziejczak;1;FRA
+PLAYER:Yoann Gourcuff;2;FRA
+PLAYER:Michel Bastos;2;BRA
+PLAYER:Maxime Gonalons;2;FRA
+PLAYER:Clement Greiner;2;FRA
+PLAYER:Kim Kallstrom;2;SWE
+PLAYER:Jimmy Briand;3;FRA
+PLAYER:Bafetimi Gomis;3;FRA
+PLAYER:Lisandro Lopez *;3;ARG

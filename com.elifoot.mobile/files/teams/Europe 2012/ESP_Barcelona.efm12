@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Barcelona
+MINI_NAME:Barcelona
+NAC:ESP
+LEVEL:95
+COACH:Pepe Guardiola
+TEXT_COLOR:255;255;0
+BACK_COLOR:153;51;102
+PLAYER:Vitor Valdes;0;ESP
+PLAYER:Pinto;0;ESP
+PLAYER:Dani Alves;1;BRA
+PLAYER:Pique ;1;ESP
+PLAYER:Puyol;1;ESP
+PLAYER:Abidal ;1;FRA
+PLAYER:Adriano;1;BRA
+PLAYER:Mascherano;1;ARG
+PLAYER:Xavi *;2;ESP
+PLAYER:Iniesta *;2;ESP
+PLAYER:S Keita;2;MLI
+PLAYER:Fabregas;2;ESP
+PLAYER:Sergio Busquets;2;ESP
+PLAYER:Messi *;3;ARG
+PLAYER:David Villa;3;ESP
+PLAYER:Alexis Sanchez;3;CHL

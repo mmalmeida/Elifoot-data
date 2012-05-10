@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:AC Milan
+MINI_NAME:Milan
+NAC:ITA
+LEVEL:90
+COACH:M Allegri
+TEXT_COLOR:0;0;0
+BACK_COLOR:255;0;0
+PLAYER:Abbiati;0;ITA
+PLAYER:Marco Amelia;0;ITA
+PLAYER:Zambrotta;1;ITA
+PLAYER:Nesta;1;ITA
+PLAYER:Thiago Silva *;1;BRA
+PLAYER:Mexes;1;FRA
+PLAYER:Bonera;1;ITA
+PLAYER:Sulley Muntari;2;GHA
+PLAYER:Gattuso ;2;ITA
+PLAYER:K P Boateng;2;GHA
+PLAYER:Emanuelson ;2;NLD
+PLAYER:Seedorf *;2;NLD
+PLAYER:Van Bommel;2;NLD
+PLAYER:Ibrahimovic *;3;SWE
+PLAYER:Pato ;3;BRA
+PLAYER:Robinho;3;BRA

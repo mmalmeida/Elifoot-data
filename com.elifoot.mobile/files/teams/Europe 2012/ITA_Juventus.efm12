@@ -1,0 +1,25 @@
+ELIFOOT-TEAM
+NAME:Juventus
+MINI_NAME:Juventus
+NAC:ITA
+LEVEL:90
+COACH:Antonio Conte
+TEXT_COLOR:255;255;255
+BACK_COLOR:0;0;0
+PLAYER:Buffon*;0;ITA
+PLAYER:Marco Storari;0;ITA
+PLAYER:Chiellini;1;ITA
+PLAYER:Cáceres;1;URY
+PLAYER:Barzagli;1;ITA
+PLAYER:Fabio Grosso;1;ITA
+PLAYER:Lichtsteiner;1;SWZ
+PLAYER:Pirlo*;2;ITA
+PLAYER:Arturo Vidal;2;CHL
+PLAYER:Miloš Kracić;2;SRB
+PLAYER:Estigarribia;2;PRY
+PLAYER:Marchisio;2;ITA
+PLAYER:Simone Pepe;2;ITA
+PLAYER:Del Piero*;3;ITA
+PLAYER:Vučinić;3;MNE
+PLAYER:Quagliarella;3;ITA
+

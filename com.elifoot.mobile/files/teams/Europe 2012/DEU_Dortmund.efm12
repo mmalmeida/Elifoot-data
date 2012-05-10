@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:Dortmund
+MINI_NAME:Dortmund
+NAC:DEU
+LEVEL:84
+COACH:Jürgen Klopp
+TEXT_COLOR:0;0;0
+BACK_COLOR:255;255;0
+PLAYER:Weidenfeller;0;DEU
+PLAYER:Langerak;0;AUS
+PLAYER:Filipe Santana;1;BRA
+PLAYER:Mats Hummels;1;DEU
+PLAYER:Subotic;1;SRB
+PLAYER:Julian Koch;1;DEU
+PLAYER:Chris Lowe;1;DEU
+PLAYER:Ivan Perisic;2;HRV
+PLAYER:Moritz Leitner;2;DEU
+PLAYER:Florian Kringe;2;DEU
+PLAYER:Antonio da Silva;2;BRA
+PLAYER:Mario Gotze;2;DEU
+PLAYER:Sebastian Kehl;2;DEU
+PLAYER:Lewandowski;3;POL
+PLAYER:Lucas Barrios;3;PRY
+PLAYER:Terrence Boyd;3;USA

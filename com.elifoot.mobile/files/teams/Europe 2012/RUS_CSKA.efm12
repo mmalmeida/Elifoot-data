@@ -1,0 +1,24 @@
+ELIFOOT-TEAM
+NAME:CSKA
+MINI_NAME:CSKA
+NAC:RUS
+LEVEL:80
+COACH:Leonid Slutsky
+TEXT_COLOR:255;255;153
+BACK_COLOR:0;0;255
+PLAYER:Igor Akinfeev *;0;RUS
+PLAYER:S Chepchugov;0;RUS
+PLAYER:Ignashevic *;1;RUS
+PLAYER:A Berezutskiy;1;RUS
+PLAYER:V Berezutskiy;1;RUS
+PLAYER:Chidi Odiah;1;NGA
+PLAYER:Viktor Vasin;1;RUS
+PLAYER:Mark Gonzalez;2;CHL
+PLAYER:Alan Dzagoev;2;RUS
+PLAYER:Keisuke Honda;2;JPN
+PLAYER:Aldonin;2;RUS
+PLAYER:Rahmic;2;BIH
+PLAYER:Pavel Mamayev;2;RUS
+PLAYER:Ahmed Musa;3;NGA
+PLAYER:Seydou Doumbia;3;CIV
+PLAYER:Zoran Tošić;3;SRB
